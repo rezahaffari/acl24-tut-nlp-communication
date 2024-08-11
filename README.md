@@ -1,5 +1,5 @@
 ## ACL2024 Tutorial
-#Presentation Matters: How to Communicate Science in the NLP Venues and in the Wild? ⭐️
+# Presentation Matters: How to Communicate Science in the NLP Venues and in the Wild? ⭐️
 
 ## Description
 This repository contains the slides and resources used in teh tutorial. We are excited about the wide interest from the audience and glad that many people have found these tipcs useful. 
