@@ -12,10 +12,10 @@ Tutorial Presenters:
 - Reza Haffari (gholamreza.haffari@monash.edu), Monash University, Australia. 
 
 ## Table of Contents 
-- [Writing](writing)
-- [Presentation](presentation)
-- [Social Media](media)
-- [Interview](interview)
+- [Writing](#writing)
+- [Presentation](#presentation)
+- [Social Media](#media)
+- [Interview](#interview)
    
 ## Resources
 
