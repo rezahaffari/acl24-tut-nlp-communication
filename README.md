@@ -7,8 +7,8 @@ We always appreciate further feedback, fior example, in case you have come acros
 The slides can be obtained from [this GoogleSlides link](https://docs.google.com/presentation/d/1gZp95SPqX9JQUbhzF_amPQLhyPbDQk9z/edit?usp=sharing&ouid=113394830930190286342&rtpof=true&sd=true). 
 
 Tutorial Presenters:
-- Sarvnaz Karimi (Sarvnaz.Karimi@data61.csiro.au)
-- Cecile Paris (Cecile.Paris@data61.csiro.au)
-- Reza Haffari (gholamreza.haffari@monash.edu)
+- Sarvnaz Karimi (Sarvnaz.Karimi@data61.csiro.au), CSIRO, Australia. 
+- Cecile Paris (Cecile.Paris@data61.csiro.au), CSIRO, Australia
+- Reza Haffari (gholamreza.haffari@monash.edu), Monash University, Australia. 
 
 ## Resources
