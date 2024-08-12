@@ -8,9 +8,9 @@ This repository contains the slides and resources used in teh tutorial. We are e
 We always appreciate further feedback, fior example, in case you have come across further useful resources, please feel free to share and we would be more than happy to include them in this repository. 
 
 Tutorial Presenters:
-- Sarvnaz Karimi (Sarvnaz.Karimi@data61.csiro.au), CSIRO, Australia. 
-- Cecile Paris (Cecile.Paris@data61.csiro.au), CSIRO, Australia
-- Reza Haffari (gholamreza.haffari@monash.edu), Monash University, Australia. 
+- [Sarvnaz Karimi](https://www.linkedin.com/in/sarvnaz-karimi-64ab491/?originalSubdomain=au) (Sarvnaz.Karimi@data61.csiro.au), CSIRO, Australia. 
+- [Cecile Paris](https://www.linkedin.com/in/c%C3%A9cile-paris-8752723/?originalSubdomain=au) (Cecile.Paris@data61.csiro.au), CSIRO, Australia
+- [Reza Haffari](https://www.linkedin.com/in/gholamrezahaffari/?originalSubdomain=au) (gholamreza.haffari@monash.edu), Monash University, Australia. 
 
 ## Table of Contents 
 - [Writing](#writing)
