@@ -2,7 +2,7 @@
 
 ## Description
 
-The slides can be obtained via these [PDF](Presentation_Matters_How_to_Communicate_Science_in_the_NLP_Venues_and_in the_Wild-public.pdf) and [PPT]() links. 
+The slides can be obtained via these [PDF](tut_acl24.pdf) and [PPTX](tut_acl24.pptx) links. 
 
 This repository contains the slides and resources used in teh tutorial. We are excited about the wide interest from the audience and glad that many people have found these tipcs useful. 
 We always appreciate further feedback, fior example, in case you have come across further useful resources, please feel free to share and we would be more than happy to include them in this repository. 
