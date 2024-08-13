@@ -2,7 +2,7 @@
 
 ## Description
 
-The slides can be obtained via these [PDF]([tut_acl24.pdf](https://drive.google.com/file/d/1oO9AM6VbTkzZrn4dRCn4fvyhnhJqIoS3/view?usp=sharing) and [PPTX](https://docs.google.com/presentation/d/1WgajCxnlhbrPDzPCBoWTG5R3cQsoWrNs/edit?usp=sharing&ouid=113394830930190286342&rtpof=true&sd=true) links. 
+The slides can be obtained via these [PDF](https://drive.google.com/file/d/1oO9AM6VbTkzZrn4dRCn4fvyhnhJqIoS3/view?usp=sharing) and [PPTX](https://docs.google.com/presentation/d/1WgajCxnlhbrPDzPCBoWTG5R3cQsoWrNs/edit?usp=sharing&ouid=113394830930190286342&rtpof=true&sd=true) links. 
 
 This repository contains the slides and resources used in teh tutorial. We are excited about the wide interest from the audience and glad that many people have found these tipcs useful. 
 We always appreciate further feedback, fior example, in case you have come across further useful resources, please feel free to share and we would be more than happy to include them in this repository. 
