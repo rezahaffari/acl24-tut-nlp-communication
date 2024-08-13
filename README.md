@@ -2,7 +2,7 @@
 
 ## Description
 
-The slides can be obtained from [this GoogleSlides link](https://docs.google.com/presentation/d/1gZp95SPqX9JQUbhzF_amPQLhyPbDQk9z/edit?usp=sharing&ouid=113394830930190286342&rtpof=true&sd=true). 
+The slides can be obtained from [this GoogleSlides link](./Presentation Matters_ How to Communicate Science in the NLP Venues and in the Wild-public.pdf). 
 
 This repository contains the slides and resources used in teh tutorial. We are excited about the wide interest from the audience and glad that many people have found these tipcs useful. 
 We always appreciate further feedback, fior example, in case you have come across further useful resources, please feel free to share and we would be more than happy to include them in this repository. 
