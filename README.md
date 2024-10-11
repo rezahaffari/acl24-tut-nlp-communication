@@ -29,9 +29,8 @@ Tutorial Presenters:
 * [Tips for Writing NLP Papers](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f), Vered Shwartz.
 * [Writing for Computer Science](https://link.springer.com/book/10.1007/978-1-4471-6639-9), Justin Zobel, book.
 * [Writing Tips on Style](http://users.umiacs.umd.edu/~jbg/static/style.html), Jordan Boyd-Graber.
-* [What Can We Do to Improve Peer Review in NLP](https://aclanthology.org/2020.findings-emnlp.112.pdf), Anna Rogers and Isabelle Augenstein, EMNLP, 2020.
 * [NERT Style Guide](https://www.overleaf.com/project/5db4fd68be57c00001336e73), Nathan Schneider
-
+* [ACL Policy on Publication Ethics](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policy_on_Publication_Ethics), Association for Computational Linguistics.
 
 ### Presentation <a name="presentation"></a>
 * [How to give a good talk on a Computational Linguistics topic](https://naacl2018.wordpress.com/2018/05/27/how-to-give-a-good-talk-on-a-computational-linguistics-topic), Barbara Plank.
@@ -47,3 +46,6 @@ Tutorial Presenters:
 ### Interview <a name="interview"></a>
 * TBF
 
+### Reviewing <a name="Reviewing"></a>
+* [What Can We Do to Improve Peer Review in NLP](https://aclanthology.org/2020.findings-emnlp.112.pdf), Anna Rogers and Isabelle Augenstein, EMNLP, 2020.
+* [ACL Reviewer Guidelines](https://www.aclweb.org/adminwiki/index.php/ACL_Reviewer_Guidelines), Association for Computational Linguistics.
